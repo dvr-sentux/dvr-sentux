@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dvr-sentux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dvr-sentux/dvr-sentux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @dvr-sentux.
+- 👀 I’m interested in learn more about programming.
+- 🌱 I’m currently learning about PHP and its frameworks, JavaScript, JQuery, TypeScript, NodeJS, Angular and a lot of differents programming languages of front and back end.
+- 💞️ I’m looking to collaborate on  web and desktop developments.
+- 📫 You can reach me in dvelasquez@sentux.com
